@@ -1,0 +1,37 @@
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto:2
+    container_name: gta6-mosquitto
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./src/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf:ro
+      - mosquitto-data:/mosquitto/data
+    restart: unless-stopped
+
+  collector:
+    build:
+      context: .
+      dockerfile: src/collector/Dockerfile
+    container_name: gta6-collector
+    env_file:
+      - ./src/collector/.env
+    volumes:
+      - ./src/processor/input:/app/processor/input
+    restart: "no"
+
+  processor:
+    build:
+      context: .
+      dockerfile: src/processor/Dockerfile
+    container_name: gta6-processor
+    depends_on:
+      collector:
+        condition: service_completed_successfully
+    volumes:
+      - ./src/processor:/app/processor
+    restart: "no"
+
+volumes:
+  mosquitto-data:

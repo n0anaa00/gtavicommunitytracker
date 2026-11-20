@@ -1,0 +1,26 @@
+{
+    "wikimedia": {
+        "pageviews": {
+            "count": 30,
+            "total": 1807600,
+            "unit": "pageviews"
+        }
+    },
+    "youtube": {
+        "video_views": {
+            "count": 10,
+            "total": 346947638,
+            "unit": "views"
+        },
+        "video_likes": {
+            "count": 10,
+            "total": 5286175,
+            "unit": "likes"
+        },
+        "live_concurrent_viewers": {
+            "count": 6,
+            "total": 268782,
+            "unit": "viewers"
+        }
+    }
+}

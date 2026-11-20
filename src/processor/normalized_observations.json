@@ -1,0 +1,560 @@
+{
+    "project": "GTA VI Community Monitor",
+    "processed_at": "2026-11-20T10:10:25.135663+00:00",
+    "observation_count": 56,
+    "observations": [
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 21769,
+            "unit": "pageviews",
+            "observed_at": "2026-10-20T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 20221,
+            "unit": "pageviews",
+            "observed_at": "2026-10-21T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 20504,
+            "unit": "pageviews",
+            "observed_at": "2026-10-22T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 18252,
+            "unit": "pageviews",
+            "observed_at": "2026-10-23T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 17613,
+            "unit": "pageviews",
+            "observed_at": "2026-10-24T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 18875,
+            "unit": "pageviews",
+            "observed_at": "2026-10-25T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 18782,
+            "unit": "pageviews",
+            "observed_at": "2026-10-26T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 19975,
+            "unit": "pageviews",
+            "observed_at": "2026-10-27T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 19492,
+            "unit": "pageviews",
+            "observed_at": "2026-10-28T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 23883,
+            "unit": "pageviews",
+            "observed_at": "2026-10-29T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 21279,
+            "unit": "pageviews",
+            "observed_at": "2026-10-30T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 19012,
+            "unit": "pageviews",
+            "observed_at": "2026-10-31T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 23940,
+            "unit": "pageviews",
+            "observed_at": "2026-11-01T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 27751,
+            "unit": "pageviews",
+            "observed_at": "2026-11-02T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 28849,
+            "unit": "pageviews",
+            "observed_at": "2026-11-03T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 27920,
+            "unit": "pageviews",
+            "observed_at": "2026-11-04T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 30984,
+            "unit": "pageviews",
+            "observed_at": "2026-11-05T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 31988,
+            "unit": "pageviews",
+            "observed_at": "2026-11-06T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 30547,
+            "unit": "pageviews",
+            "observed_at": "2026-11-07T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 34206,
+            "unit": "pageviews",
+            "observed_at": "2026-11-08T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 46615,
+            "unit": "pageviews",
+            "observed_at": "2026-11-09T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 68788,
+            "unit": "pageviews",
+            "observed_at": "2026-11-10T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 67656,
+            "unit": "pageviews",
+            "observed_at": "2026-11-11T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 78714,
+            "unit": "pageviews",
+            "observed_at": "2026-11-12T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 79937,
+            "unit": "pageviews",
+            "observed_at": "2026-11-13T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 77786,
+            "unit": "pageviews",
+            "observed_at": "2026-11-14T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 87733,
+            "unit": "pageviews",
+            "observed_at": "2026-11-15T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 113920,
+            "unit": "pageviews",
+            "observed_at": "2026-11-16T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 162531,
+            "unit": "pageviews",
+            "observed_at": "2026-11-17T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "value": 548078,
+            "unit": "pageviews",
+            "observed_at": "2026-11-18T00:00:00+00:00",
+            "article": "Grand_Theft_Auto_VI"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 83535440,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "rWWgfTa650k",
+            "title": "GTA 6 GRAPHICS ARE INSANE 🤯 *Leaked Gameplay*",
+            "channel": "Jeremy Lynch",
+            "url": "https://www.youtube.com/watch?v=rWWgfTa650k",
+            "published_at": "2024-06-13T16:33:00Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 2452196,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "rWWgfTa650k",
+            "title": "GTA 6 GRAPHICS ARE INSANE 🤯 *Leaked Gameplay*",
+            "channel": "Jeremy Lynch",
+            "url": "https://www.youtube.com/watch?v=rWWgfTa650k",
+            "published_at": "2024-06-13T16:33:00Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 139465356,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "h44yCPDBi5A",
+            "title": "GTA 6 Fell Off The Edge 😭",
+            "channel": "Air Run",
+            "url": "https://www.youtube.com/watch?v=h44yCPDBi5A",
+            "published_at": "2026-06-16T04:16:18Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 429178,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "h44yCPDBi5A",
+            "title": "GTA 6 Fell Off The Edge 😭",
+            "channel": "Air Run",
+            "url": "https://www.youtube.com/watch?v=h44yCPDBi5A",
+            "published_at": "2026-06-16T04:16:18Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 39722419,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "akpE6c06Ki8",
+            "title": "GTA 6 - Ep. 12 x Halo x Cyberpunk",
+            "channel": "Adhemz",
+            "url": "https://www.youtube.com/watch?v=akpE6c06Ki8",
+            "published_at": "2026-09-23T14:02:00Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 645967,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "akpE6c06Ki8",
+            "title": "GTA 6 - Ep. 12 x Halo x Cyberpunk",
+            "channel": "Adhemz",
+            "url": "https://www.youtube.com/watch?v=akpE6c06Ki8",
+            "published_at": "2026-09-23T14:02:00Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 48846619,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "y_NFD3N8Izo",
+            "title": "Don't underestimate GTA 6 🔥💀 | Kuldeep Singhaniaa #shorts #gta6",
+            "channel": "Kuldeep Singhania Shorts",
+            "url": "https://www.youtube.com/watch?v=y_NFD3N8Izo",
+            "published_at": "2025-05-24T18:25:36Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 1340913,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "y_NFD3N8Izo",
+            "title": "Don't underestimate GTA 6 🔥💀 | Kuldeep Singhaniaa #shorts #gta6",
+            "channel": "Kuldeep Singhania Shorts",
+            "url": "https://www.youtube.com/watch?v=y_NFD3N8Izo",
+            "published_at": "2025-05-24T18:25:36Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 28968238,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "published_at": "2026-11-19T00:14:24Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 350384,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "published_at": "2026-11-19T00:14:24Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 144742,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "published_at": "2026-11-19T00:14:24Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 2731141,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "published_at": "2026-11-19T19:04:30Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 21237,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "published_at": "2026-11-19T19:04:30Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 51691,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "published_at": "2026-11-19T19:04:30Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 1826254,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "published_at": "2026-11-20T00:23:33Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 19091,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "published_at": "2026-11-20T00:23:33Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 37607,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "published_at": "2026-11-20T00:23:33Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 1559272,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "published_at": "2026-11-19T22:49:01Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 8890,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "published_at": "2026-11-19T22:49:01Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 19257,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "published_at": "2026-11-19T22:49:01Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 262346,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "SxifnA3T8DU",
+            "title": "GTA 6 DAY 2 :THE VICE CITY TAKEOVER",
+            "channel": "Snax Gaming",
+            "url": "https://www.youtube.com/watch?v=SxifnA3T8DU",
+            "published_at": "2026-11-19T16:56:58Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 14643,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "SxifnA3T8DU",
+            "title": "GTA 6 DAY 2 :THE VICE CITY TAKEOVER",
+            "channel": "Snax Gaming",
+            "url": "https://www.youtube.com/watch?v=SxifnA3T8DU",
+            "published_at": "2026-11-19T16:56:58Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 10346,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "SxifnA3T8DU",
+            "title": "GTA 6 DAY 2 :THE VICE CITY TAKEOVER",
+            "channel": "Snax Gaming",
+            "url": "https://www.youtube.com/watch?v=SxifnA3T8DU",
+            "published_at": "2026-11-19T16:56:58Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_views",
+            "value": 30553,
+            "unit": "views",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "UrDrAZ82YC4",
+            "title": "GTA 6 - Part 5 🔥 پارت 5 و باخخخخخخخ",
+            "channel": "KEOXER GAMING",
+            "url": "https://www.youtube.com/watch?v=UrDrAZ82YC4",
+            "published_at": "2026-11-20T06:54:04Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "video_likes",
+            "value": 3676,
+            "unit": "likes",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "UrDrAZ82YC4",
+            "title": "GTA 6 - Part 5 🔥 پارت 5 و باخخخخخخخ",
+            "channel": "KEOXER GAMING",
+            "url": "https://www.youtube.com/watch?v=UrDrAZ82YC4",
+            "published_at": "2026-11-20T06:54:04Z"
+        },
+        {
+            "source": "youtube",
+            "metric": "live_concurrent_viewers",
+            "value": 5139,
+            "unit": "viewers",
+            "observed_at": "2026-11-20T10:10:24.434396+00:00",
+            "video_id": "UrDrAZ82YC4",
+            "title": "GTA 6 - Part 5 🔥 پارت 5 و باخخخخخخخ",
+            "channel": "KEOXER GAMING",
+            "url": "https://www.youtube.com/watch?v=UrDrAZ82YC4",
+            "published_at": "2026-11-20T06:54:04Z"
+        }
+    ],
+    "rejected_observations": []
+}

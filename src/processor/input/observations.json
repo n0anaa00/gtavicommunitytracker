@@ -1,0 +1,486 @@
+{
+    "project": "GTA VI Community Monitor",
+    "collected_at": "2026-11-20T10:30:20.637942+00:00",
+    "observations": [
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261020",
+            "views": 21769,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261021",
+            "views": 20221,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261022",
+            "views": 20504,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261023",
+            "views": 18252,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261024",
+            "views": 17613,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261025",
+            "views": 18875,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261026",
+            "views": 18782,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261027",
+            "views": 19975,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261028",
+            "views": 19492,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261029",
+            "views": 23883,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261030",
+            "views": 21279,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261031",
+            "views": 19012,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261101",
+            "views": 23940,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261102",
+            "views": 27751,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261103",
+            "views": 28849,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261104",
+            "views": 27920,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261105",
+            "views": 30984,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261106",
+            "views": 31988,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261107",
+            "views": 30547,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261108",
+            "views": 34206,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261109",
+            "views": 46615,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261110",
+            "views": 68788,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261111",
+            "views": 67656,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261112",
+            "views": 78714,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261113",
+            "views": 79937,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261114",
+            "views": 77786,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261115",
+            "views": 87733,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261116",
+            "views": 113920,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261117",
+            "views": 162531,
+            "granularity": "daily"
+        },
+        {
+            "source": "wikimedia",
+            "metric": "pageviews",
+            "article": "Grand_Theft_Auto_VI",
+            "date": "20261118",
+            "views": 548078,
+            "granularity": "daily"
+        },
+        {
+            "source": "youtube",
+            "video_id": "h44yCPDBi5A",
+            "title": "GTA 6 Fell Off The Edge 😭",
+            "channel": "Air Run",
+            "published_at": "2026-06-16T04:16:18Z",
+            "url": "https://www.youtube.com/watch?v=h44yCPDBi5A",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 139481982,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "h44yCPDBi5A",
+            "title": "GTA 6 Fell Off The Edge 😭",
+            "channel": "Air Run",
+            "published_at": "2026-06-16T04:16:18Z",
+            "url": "https://www.youtube.com/watch?v=h44yCPDBi5A",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 429196,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "akpE6c06Ki8",
+            "title": "GTA 6 - Ep. 12 x Halo x Cyberpunk",
+            "channel": "Adhemz",
+            "published_at": "2026-09-23T14:02:00Z",
+            "url": "https://www.youtube.com/watch?v=akpE6c06Ki8",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 39725919,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "akpE6c06Ki8",
+            "title": "GTA 6 - Ep. 12 x Halo x Cyberpunk",
+            "channel": "Adhemz",
+            "published_at": "2026-09-23T14:02:00Z",
+            "url": "https://www.youtube.com/watch?v=akpE6c06Ki8",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 646016,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "y_NFD3N8Izo",
+            "title": "Don't underestimate GTA 6 🔥💀 | Kuldeep Singhaniaa #shorts #gta6",
+            "channel": "Kuldeep Singhania Shorts",
+            "published_at": "2025-05-24T18:25:36Z",
+            "url": "https://www.youtube.com/watch?v=y_NFD3N8Izo",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 48851394,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "y_NFD3N8Izo",
+            "title": "Don't underestimate GTA 6 🔥💀 | Kuldeep Singhaniaa #shorts #gta6",
+            "channel": "Kuldeep Singhania Shorts",
+            "published_at": "2025-05-24T18:25:36Z",
+            "url": "https://www.youtube.com/watch?v=y_NFD3N8Izo",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 1340989,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "EMMuHOBs4c8",
+            "title": "GTA 6 is downloading but you hear trumpets outside #gta6 #gta #gtavi #grandtheftauto #skit #comedy",
+            "channel": "Jaden Williams",
+            "published_at": "2025-05-21T19:00:27Z",
+            "url": "https://www.youtube.com/watch?v=EMMuHOBs4c8",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 44061200,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "EMMuHOBs4c8",
+            "title": "GTA 6 is downloading but you hear trumpets outside #gta6 #gta #gtavi #grandtheftauto #skit #comedy",
+            "channel": "Jaden Williams",
+            "published_at": "2025-05-21T19:00:27Z",
+            "url": "https://www.youtube.com/watch?v=EMMuHOBs4c8",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 1441779,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "published_at": "2026-11-19T00:14:24Z",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 29508345,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "published_at": "2026-11-19T00:14:24Z",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 354324,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "hwSg39yIBGU",
+            "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+            "channel": "IShowSpeed",
+            "published_at": "2026-11-19T00:14:24Z",
+            "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "live_concurrent_viewers",
+            "value": 137716,
+            "unit": "viewers"
+        },
+        {
+            "source": "youtube",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "published_at": "2026-11-19T19:04:30Z",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 2769748,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "published_at": "2026-11-19T19:04:30Z",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 21382,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "YylVwL4UIFU",
+            "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "published_at": "2026-11-19T19:04:30Z",
+            "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "live_concurrent_viewers",
+            "value": 51962,
+            "unit": "viewers"
+        },
+        {
+            "source": "youtube",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "published_at": "2026-11-20T00:23:33Z",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 1912176,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "published_at": "2026-11-20T00:23:33Z",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 19405,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "yX4DH_msPkI",
+            "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+            "channel": "Kai Cenat Live",
+            "published_at": "2026-11-20T00:23:33Z",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "live_concurrent_viewers",
+            "value": 34623,
+            "unit": "viewers"
+        },
+        {
+            "source": "youtube",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "published_at": "2026-11-19T22:49:01Z",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_views",
+            "value": 1607143,
+            "unit": "views"
+        },
+        {
+            "source": "youtube",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "published_at": "2026-11-19T22:49:01Z",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "video_likes",
+            "value": 9011,
+            "unit": "likes"
+        },
+        {
+            "source": "youtube",
+            "video_id": "6RgkIVpvvsY",
+            "title": "🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!",
+            "channel": "Typical Gamer",
+            "published_at": "2026-11-19T22:49:01Z",
+            "url": "https://www.youtube.com/watch?v=6RgkIVpvvsY",
+            "collected_at": "2026-11-20T10:30:20.635938+00:00",
+            "metric": "live_concurrent_viewers",
+            "value": 18375,
+            "unit": "viewers"
+        }
+    ]
+}
