@@ -1,7 +1,9 @@
 
+
 import json
 from pathlib import Path
 from datetime import datetime, timezone
+from mqtt_publisher import publish_observations
 
 from normalizer import normalize_observations, build_summary
 
@@ -74,8 +76,14 @@ def main():
     with summary_file.open("w", encoding="utf-8") as file:
         json.dump(summary, file, indent=4, ensure_ascii=False)
 
+
     print(f"Normalized data: {output_file}")
     print(f"Metric summary: {summary_file}")
+    print("\n[5] Publishing observations to MQTT...")
+
+    publish_observations(normalized)
+
+
 
     print("\n" + "=" * 50)
     print("PROCESSING COMPLETED")
