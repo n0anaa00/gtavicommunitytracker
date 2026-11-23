@@ -13,7 +13,7 @@ GTA6.Community.Wikimedia:
 GTA6.Community.Wikimedia.Pageviews:
   datatype: uint64
   type: sensor
-  unit: pageviews
+  unit: count
   description: Daily pageviews of the Grand Theft Auto VI Wikimedia article.
 
 GTA6.Community.YouTube:
@@ -29,11 +29,11 @@ GTA6.Community.YouTube.VideoViews:
 GTA6.Community.YouTube.VideoLikes:
   datatype: uint64
   type: sensor
-  unit: likes
+  unit: count
   description: Current like count of a selected GTA VI related YouTube video.
 
 GTA6.Community.YouTube.LiveConcurrentViewers:
   datatype: uint64
   type: sensor
-  unit: viewers
+  unit: count
   description: Concurrent viewers reported for a selected public GTA VI livestream.

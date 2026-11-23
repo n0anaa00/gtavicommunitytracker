@@ -1,39 +1,38 @@
-﻿GTA6:
+﻿Vehicle:
+  type: branch
+
+Vehicle.GTA6:
   type: branch
   description: Grand Theft Auto VI community monitoring data.
 
-GTA6.Community:
+Vehicle.GTA6.Community:
   type: branch
   description: Publicly observable indicators of GTA VI community activity.
 
-GTA6.Community.Wikimedia:
+Vehicle.GTA6.Community.Wikimedia:
   type: branch
   description: Wikimedia article readership statistics.
 
-GTA6.Community.Wikimedia.Pageviews:
+Vehicle.GTA6.Community.Wikimedia.Pageviews:
   datatype: uint64
   type: sensor
-  unit: pageviews
   description: Daily pageviews of the Grand Theft Auto VI Wikimedia article.
 
-GTA6.Community.YouTube:
+Vehicle.GTA6.Community.YouTube:
   type: branch
   description: YouTube video and livestream engagement statistics.
 
-GTA6.Community.YouTube.VideoViews:
+Vehicle.GTA6.Community.YouTube.VideoViews:
   datatype: uint64
   type: sensor
-  unit: views
   description: Lifetime view count of a selected GTA VI related YouTube video.
 
-GTA6.Community.YouTube.VideoLikes:
+Vehicle.GTA6.Community.YouTube.VideoLikes:
   datatype: uint64
   type: sensor
-  unit: likes
   description: Current like count of a selected GTA VI related YouTube video.
 
-GTA6.Community.YouTube.LiveConcurrentViewers:
+Vehicle.GTA6.Community.YouTube.LiveConcurrentViewers:
   datatype: uint64
   type: sensor
-  unit: viewers
   description: Concurrent viewers reported for a selected public GTA VI livestream.
